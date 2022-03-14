@@ -1,0 +1,33 @@
+.centrado {
+  text-align: center;
+}
+
+.parrafo {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-size: 130%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.integrante {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-style: Arial;
+  font-weight: normal;
+  font-size: 160%;
+}
+
+.test {
+  margin-right: 200px;
+  margin-left: 20px;
+  padding-top: 25px;
+}
+
+img {
+  margin-right: 100px;
+  margin-left: 100px;
+  height: auto;
+  width: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
