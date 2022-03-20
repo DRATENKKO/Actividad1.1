@@ -26,10 +26,10 @@ img {
   max-height: 200px;
 }
 a {
-  color: powderblue;
+  color: rgb(255, 0, 0);
   transition: background-color .5s;
 }
 
 a:hover {
-  background-color: gold;
+  background-color: rgb(47, 0, 255);
 }
