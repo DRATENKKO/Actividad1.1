@@ -49,18 +49,22 @@ p {
 
 #parrafo1 {
   background-color: #00fff2;
+  box-sizing: border-box;
 }
 
 #parrafo2 {
   background-color: #ffee00;
+  box-sizing: border-box;
 }
 
 #parrafo3 {
   background-color: #ff5900;
+  box-sizing: border-box;
 }
 
 #parrafo4 {
   background-color: #ff0000;
+  box-sizing: border-box;
 }
 .font{
   font-family: sans-serif;
