@@ -26,7 +26,7 @@ img {
   max-height: 200px;
 }
 a {
-  background-color: powderblue;
+  color: powderblue;
   transition: background-color .5s;
 }
 
