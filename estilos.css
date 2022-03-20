@@ -59,3 +59,8 @@ p {
 .font{
   font-family: sans-serif;
 }
+h2 {
+  color: #fff;
+  font-size: 55px;
+  text-align: center;
+}
