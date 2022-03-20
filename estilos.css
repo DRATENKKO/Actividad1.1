@@ -9,6 +9,12 @@ body {
   float: left;
   background-color: #1d1b1b;
 }
+#menus {
+  width: 20%;
+  height: 100vh;
+  float: unset;
+  background-color: #1d1b1b;
+}
 
 ul {
   list-style-type: none;
