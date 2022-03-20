@@ -17,15 +17,6 @@
   font-size: 160%;
 }
 
-a {
-  background-color: powderblue;
-  transition: background-color .5s;
-}
-
-a:hover {
-  background-color: gold;
-}
-
 img {
   margin-right: 100px;
   margin-left: 100px;
@@ -34,16 +25,11 @@ img {
   max-width: 200px;
   max-height: 200px;
 }
-a:link {  
-  color: rgb(0, 255, 0);  
-  text-decoration: none;}  
- a:visited {  
-  color: gray;  
-  text-decoration: none;}  
- a:active {
-  color: rgb(0, 255, 0)   
-  }  
- a:hover {  
-  color: rgb(9, 255, 42);  
-  background-color: yellow;  
-  text-decoration: underline;}  
+a {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}
