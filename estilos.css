@@ -12,7 +12,7 @@ body {
 #menus {
   width: 20%;
   height: 100vh;
-  float: unset;
+  float: right;
   background-color: #1d1b1b;
 }
 
