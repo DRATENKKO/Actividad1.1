@@ -17,11 +17,7 @@
   font-size: 160%;
 }
 
-.test {
-  margin-right: 200px;
-  margin-left: 20px;
-  padding-top: 25px;
-}
+.link:hover { color: #00FF00; }
 
 img {
   margin-right: 100px;
