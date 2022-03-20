@@ -31,7 +31,16 @@ img {
   max-width: 200px;
   max-height: 200px;
 }
-a:hover {
-  color: #fa4f00;
-  cursor: progress;
-}
+a:link {  
+  color: red;  
+  text-decoration: none;}  
+ a:visited {  
+  color: gray;  
+  text-decoration: none;}  
+ a:active {  
+  text-decoration: none  
+  }  
+ a:hover {  
+  color: blue;  
+  background-color: yellow;  
+  text-decoration: underline;}  
