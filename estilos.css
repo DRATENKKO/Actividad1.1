@@ -8,9 +8,9 @@ body {
   margin: 0;
 }
 #menu {
+  display: inline-block;
   width: 20%;
   height: 100vh;
-  float: inline-start;
   background-color: #1d1b1b;
 }
 
