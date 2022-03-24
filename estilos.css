@@ -6,7 +6,7 @@ body {
 #menu {
   width: 20%;
   height: 100vh;
-  float: left;
+  float: inline-start;
   background-color: #1d1b1b;
 }
 #menu2 {
