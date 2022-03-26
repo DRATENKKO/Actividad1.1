@@ -38,6 +38,53 @@ header ul li a {
   margin-right: 20px;
 }
 
+.jnr_proyecto {
+  text-align: center;
+  font-size: 200%;
+}
+
+.artitulo_caract_objeto {
+  padding: 10px 0;
+  position: relative;
+  border-top-width: 1px;
+  border-top-style: solid;
+  overflow: hidden;
+}
+
+.titulocaract {
+  width: 50%;
+  float: left;
+  overflow: hidden;
+  left: 250px;
+  top: 150px;
+  position: relative;
+  margin-top: 15px;
+  overflow: hidden;
+}
+.caracteristicas_desc {
+  text-align: center;
+  width: 50%;
+  float: left;
+  top: 150px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 15px;
+  overflow: hidden;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
+}
+
+.gato {
+  left: 1000;
+  top: 1000;
+  position: absolute;
+  height: 200px;
+  width: 200px;
+}
+
 li a:hover {
   color: rgb(117, 106, 106);
 }
