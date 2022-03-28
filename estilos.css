@@ -44,6 +44,7 @@ header ul li a {
 }
 
 .artitulo_caract_objeto {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
   padding: 10px 0;
   position: relative;
   border-top-width: 1px;
@@ -52,28 +53,50 @@ header ul li a {
 }
 
 .titulocaract {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
   width: 50%;
   float: left;
-  overflow: hidden;
-  left: 250px;
-  top: 150px;
+  left: 700px;
+  top: 40px;
   position: relative;
   margin-top: 15px;
-  overflow: hidden;
+  font-size: 14px;
 }
 .caracteristicas_desc {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
   text-align: center;
   width: 50%;
   float: left;
-  top: 150px;
+  top: 40px;
   position: relative;
-  overflow: hidden;
   margin-top: 15px;
-  overflow: hidden;
+  font-size: 14px;
 }
 
-.img .gato {
-  vertical-align: middle;
+.gato img {
+  margin-top: 20px;
+  display: block;
+  width: 550px;
+  height: 500px;
+  position: absolute;
+}
+.titulo {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  margin: auto;
+  display: block;
+  text-align: center;
+  top: 50px;
+  margin-right: 150px;
+  position: relative;
+}
+
+.titulo2 {
+  font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  margin: auto;
+  display: block;
+  text-align: center;
+  top: 60px;
+  margin-right: 10px;
   position: relative;
 }
 
