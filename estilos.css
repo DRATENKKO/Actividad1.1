@@ -72,18 +72,11 @@ header ul li a {
   overflow: hidden;
 }
 
-.img {
-  height: 100%;
-  width: 100%;
+.img .gato {
+  vertical-align: middle;
+  position: fixed;
 }
 
-.gato {
-  left: 1000;
-  top: 1000;
-  position: absolute;
-  height: 200px;
-  width: 200px;
-}
 
 li a:hover {
   color: rgb(117, 106, 106);
