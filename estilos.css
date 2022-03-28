@@ -74,7 +74,7 @@ header ul li a {
 
 .img .gato {
   vertical-align: middle;
-  position: fixed;
+  position: relative;
 }
 
 li a:hover {
